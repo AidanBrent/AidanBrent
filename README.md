@@ -8,6 +8,6 @@
   <li>MVVM Architecture</li>
 </list>
 <div float="Left">
-  <img src="Converter_Selection.png" style="width:500px;height:400px"> 
-  <img src="Converter_conversion.png" style="width:500px;height:400px">
+  <img src="Converter_Selection.png" style="width:49%;"> 
+  <img src="Converter_conversion.png" style="width:49%;">
 </div>
