@@ -18,8 +18,8 @@ Skills Demonstrated:
 `Fragments` `View Binding` `View Model` `Recycler View` `Coil` `Live Data`  `MVVM`  
 
 <div float="Left">
-  <img src="Converter_Selection.png" style="width:30%;"> 
-  <img src="Converter_conversion.png" style="width:30%;">
+  <img src="Converter_Selection.png" style="width:49%;"> 
+  <img src="Converter_conversion.png" style="width:49%;">
 </div>
 
 ## Weather App [""]
@@ -30,6 +30,6 @@ Skills Demonstrated:
 `Coroutines` `REST API (Retrofit)` `Coil` `Data Binding` `Fragments` `View Model` `Recycler View` `Live Data`  
 
 <div float="Left">
-  <img src="weather_location.png" style="width:30%;"> 
-  <img src="Weather_forecast.png" style="width:30%;">
+  <img src="weather_location.png" style="width:49%;"> 
+  <img src="Weather_forecast.png" style="width:49%;">
 </div>
