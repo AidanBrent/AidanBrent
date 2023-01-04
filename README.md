@@ -22,3 +22,14 @@ Skills Demonstrated:
   <img src="Converter_conversion.png" style="width:30%;">
 </div>
 
+## Weather App [""]
+
+An android app that gives the current weather and a 7-day forecast for any location, sourced from OpenWeatherMap
+
+Skills Demonstrated: 
+`Coroutines` `REST API (Retrofit)` `Coil` `Data Binding` `Fragments` `View Model` `Recycler View` `Live Data`  
+
+<div float="Left">
+  <img src="weather_location.png" style="width:30%;"> 
+  <img src="Weather_forecast.png" style="width:30%;">
+</div>
