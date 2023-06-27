@@ -14,7 +14,7 @@ By doing this I came to realize that my passion truly lied with programming, and
 
 An android app that converts a wide range of units between each other, for example from Pounds to Kilograms. 
 
-Skills Demonstrated: 
+Highlighted Skills: 
 `Fragments` `View Binding` `View Model` `Recycler View` `Coil` `Live Data`  `MVVM`  
 
 <div float="Left">
@@ -26,7 +26,7 @@ Skills Demonstrated:
 
 An android app that gives the current weather and a 7-day forecast for any location, sourced from OpenWeatherMap
 
-Skills Demonstrated: 
+Highlighted Skills: 
 `Coroutines` `REST API (Retrofit)` `Coil` `Data Binding` `Fragments` `View Model` `Recycler View` `Live Data`  
 
 <div float="Left">
